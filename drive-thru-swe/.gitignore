@@ -12,5 +12,3 @@ web-report/
 
 # macOS
 .DS_Store
-drive-thru-swe/package-lock.json
-functions/package-lock.json
